@@ -78,7 +78,7 @@ module.exports = {
   },
 
   contracts_directory: './src/contracts/', // specifying the new directory for the contract
-  contracts_build_directory: './src/apis/', // specifying directory for API outputs from contract
+  contracts_build_directory: './src/abis/', // specifying directory for API outputs from contract
 
   // Set default mocha options here, use special reporters etc.
   //mocha: {
